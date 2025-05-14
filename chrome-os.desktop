@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Chromier
+Icon=/home/null/.local/spawn/chromos/logo.png
+Exec=/bin/bash /home/null/.local/spawn/chromos/chrome
+Type=Application
+Terminal=true
+Keywords=Game;Emulators;
+
